@@ -1,6 +1,6 @@
 {
   "name": "@icircle/angular-auto-focus",
-  "version": "1.0.4",
+  "version": "0.1.0",
   "description": "Bullet-proof auto-focusing for Angular",
   "main": "angular-auto-focus.js",
   "repository": {
