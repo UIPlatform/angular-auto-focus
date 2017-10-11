@@ -1,20 +1,20 @@
 {
-  "name": "angular-auto-focus",
+  "name": "@icircle/angular-auto-focus",
   "version": "1.0.4",
   "description": "Bullet-proof auto-focusing for Angular",
   "main": "angular-auto-focus.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/myplanet/angular-auto-focus.git"
+    "url": "git@github.com:UIPlatform/angular-auto-focus.git"
   },
   "keywords": [
     "angular",
     "autofocus",
     "focus"
   ],
-  "author": "Ates Goral <ates.g@myplanet.com>",
+  "author": "Raghavendra K R <krraghavendra@yahoo.co.in>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/myplanet/angular-auto-focus/issues"
+    "url": "https://github.com/UIPlatform/angular-auto-focus/issues"
   }
 }

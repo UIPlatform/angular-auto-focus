@@ -27,6 +27,9 @@
                         $timeout(function() {
                             $scope.$emit('focus', element);
                             element.focus();
+                            if ($scope.$eval($attributes.autoSelect) !== false) {
+                                element.select();
+                            }
                         });
                     }
                 }
